@@ -1,0 +1,5 @@
+Para futuras alterações:
+
+git add .
+git commit -m "Mensagem explicando o que mudou"
+git push

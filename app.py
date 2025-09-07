@@ -16,7 +16,7 @@ db = SQLAlchemy(app)
 
 from views_logic import *
 from models import *
-from views_simulacao import *
+from views_simulacao_festo import *
 
 
 if __name__ == '__main__':

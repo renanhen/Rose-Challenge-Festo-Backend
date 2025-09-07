@@ -53,14 +53,3 @@ def prever():
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000)
 
-
-['diametro_pistao_mm', 'clamping_unit', 'horas_operacao',
-       'manutencao_realizada', 'curso_mm', 'temperatura_ambiente_C',
-       'pressao_operacao_bar', 'velocidade_pistao_mm_s',
-       'pressao_entrada_sensor_bar', 'pressao_saida_sensor_bar',
-       'sensor_umidade_pct', 'vibracao_mm_s', 'delta_pressao_bar',
-       'vazamento_detectado', 'umidade_interna_detectada',
-       'desgaste_detectado', 'falha', 'tipo_amortecimento_PPS',
-       'tipo_amortecimento_PPV', 'protecao_especial_Nenhuma',
-       'protecao_especial_R3', 'protecao_especial_R8',
-       'posicao_instalacao_Inclinada', 'posicao_instalacao_Vertical']

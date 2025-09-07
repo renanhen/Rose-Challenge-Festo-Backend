@@ -14,7 +14,7 @@ db.init_app(app)
 
 db = SQLAlchemy(app)
 
-from views_logic import *
+from views_logic_festo import *
 from models import *
 from views_simulacao_festo import *
 
